@@ -1,0 +1,213 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc69               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #990000;
+	text-align      : right;
+	}
+.cc70               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	text-align      : right;
+	}
+.cc71               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #993400;
+	}
+.cc72               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #3300ff;
+	}
+.cc73               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc74               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+div#e25             { /* Autres                  ... */
+	position        : absolute;
+	left            : 228.00pt;
+	top             :  18.75pt;
+	width           : 134.25pt;
+	height          :  35.25pt;
+	}
+div#e24             { /* Otros  */
+	position        : absolute;
+	left            : 210.00pt;
+	top             :  48.75pt;
+	width           : 174.75pt;
+	height          :  30.00pt;
+	}
+span#e23            { /* genera010009.jpg */
+	background      : transparent url(genera010009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  51.75pt;
+	width           : 116.25pt;
+	height          : 311.25pt;
+	}
+img#e22             { /* genera010006.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 213.00pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+img#e21             { /* genera010008.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 308.25pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+img#e20             { /* genera010007.gif */
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 261.75pt;
+	width           :  15.75pt;
+	height          :  16.50pt;
+	}
+img#e19             { /* genera010006.gif */
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 159.75pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+div#e18             { /* Fratries */
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 151.50pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e17             { /* Hermandades */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 168.00pt;
+	width           :  73.50pt;
+	height          :  15.00pt;
+	}
+img#e16             { /* genera010005.jpg */
+	position        : absolute;
+	left            :  66.00pt;
+	top             :  99.00pt;
+	width           :  32.25pt;
+	height          :  30.75pt;
+	}
+div#e15             { /* Ascendances */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 201.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e14             { /* Ascendencias */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 218.25pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e13             { /* Descendances */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 255.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* Descendencias */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 270.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* Autres */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 302.25pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e10             { /* Otros */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 318.00pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e9              {
+	position        : absolute;
+	left            : 123.75pt;
+	top             :  89.25pt;
+	width           : 160.50pt;
+	height          :  14.25pt;
+	}
+div#e8              { /* Rectification fundación ... */
+	position        : absolute;
+	left            : 144.75pt;
+	top             :  87.75pt;
+	width           : 158.25pt;
+	height          :  18.00pt;
+	}
+div#e7              { /* Chef David Albinet  */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 103.50pt;
+	width           :  98.25pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* Une super adresse !!!!! */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 169.50pt;
+	width           : 158.25pt;
+	height          :  14.25pt;
+	}
+div#e5              { /* Encore une belle adresse... */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 120.75pt;
+	width           : 291.75pt;
+	height          :  14.25pt;
+	}
+div#e4              { /* Étude sur Pigüé. JC Tule... */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 138.00pt;
+	width           : 291.75pt;
+	height          :  14.25pt;
+	}
+div#e3              { /* Conférence (en Occitan) ... */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 153.75pt;
+	width           : 291.75pt;
+	height          :  14.25pt;
+	}
+div#e2              { /* Vivre à Pigüé */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 186.75pt;
+	width           : 158.25pt;
+	height          :  16.50pt;
+	}
+span#e1             { /* plusmas.jpg */
+	background      : transparent url(plusmas.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 102.00pt;
+	width           :  50.25pt;
+	height          :  33.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

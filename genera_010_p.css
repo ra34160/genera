@@ -1,0 +1,440 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc45               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #990000;
+	text-align      : right;
+	}
+.cc46               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	text-align      : right;
+	}
+.cc47               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #993400;
+	}
+.cc48               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #3300ff;
+	}
+.cc49               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc50               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc51               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+div#e57             { /* Fratries                ... */
+	position        : absolute;
+	left            : 163.50pt;
+	top             :   9.00pt;
+	width           : 108.75pt;
+	height          :  30.00pt;
+	}
+div#e56             { /* Hermandades  */
+	position        : absolute;
+	left            : 208.50pt;
+	top             :  42.75pt;
+	width           : 195.75pt;
+	height          :  27.75pt;
+	}
+img#e55             { /* genera010009.jpg */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  51.75pt;
+	width           : 116.25pt;
+	height          : 311.25pt;
+	}
+img#e54             { /* genera010006.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 213.00pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+img#e53             { /* genera010008.gif */
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 158.25pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+img#e52             { /* genera010007.gif */
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 261.75pt;
+	width           :  15.75pt;
+	height          :  16.50pt;
+	}
+img#e51             { /* genera010006.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 311.25pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+div#e50             { /* Fratries */
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 151.50pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e49             { /* Hermandades */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 168.00pt;
+	width           :  73.50pt;
+	height          :  15.00pt;
+	}
+img#e48             { /* genera010005.jpg */
+	position        : absolute;
+	left            :  66.00pt;
+	top             :  99.00pt;
+	width           :  32.25pt;
+	height          :  30.75pt;
+	}
+div#e47             { /* Ascendances */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 201.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e46             { /* Ascendencias */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 218.25pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e45             { /* Descendances */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 255.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e44             { /* Descendencias */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 270.75pt;
+	width           :  73.50pt;
+	height          :  26.25pt;
+	}
+div#e43             { /* Autres */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 302.25pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e42             { /* Otros */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 318.00pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+img#e41             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 123.00pt;
+	top             :  84.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e40             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             :  84.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e39             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 123.00pt;
+	top             :  96.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e38             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 123.00pt;
+	top             : 108.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e37             { /* genera010004.gif */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 128.25pt;
+	width           :   2.25pt;
+	height          :   2.25pt;
+	}
+img#e36             { /* genera010003.gif */
+	position        : absolute;
+	left            : 123.00pt;
+	top             : 132.75pt;
+	width           :  10.50pt;
+	height          :  10.50pt;
+	}
+img#e35             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             :  96.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e34             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 133.50pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e33             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 145.50pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e32             { /* genera010002.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 156.75pt;
+	width           :   8.25pt;
+	height          :   7.50pt;
+	}
+img#e31             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 168.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e30             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 180.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e29             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 204.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e28             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 120.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e27             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 108.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e26             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 239.25pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e25             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 228.00pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e24             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 216.00pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e23             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 193.50pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+div#e22             { /* Albinet Philippe °1891 */
+	position        : absolute;
+	left            : 141.00pt;
+	top             :  84.00pt;
+	width           : 135.75pt;
+	height          :  14.25pt;
+	}
+div#e21             { /* Albinet Yvan °1952  */
+	position        : absolute;
+	left            : 141.00pt;
+	top             : 107.25pt;
+	width           : 126.75pt;
+	height          :  14.25pt;
+	}
+div#e20             { /* Dehais Annick  */
+	position        : absolute;
+	left            : 139.50pt;
+	top             : 119.25pt;
+	width           : 102.75pt;
+	height          :  14.25pt;
+	}
+div#e19             { /* Vidal Frédéric  */
+	position        : absolute;
+	left            : 141.00pt;
+	top             : 132.75pt;
+	width           :  98.25pt;
+	height          :  15.00pt;
+	}
+div#e18             { /* Albinet Yanis Candice  */
+	position        : absolute;
+	left            : 141.00pt;
+	top             :  95.25pt;
+	width           : 135.75pt;
+	height          :  17.25pt;
+	}
+div#e17             { /* Crozes Belen Lorenzo   */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 108.75pt;
+	width           : 135.75pt;
+	height          :  12.75pt;
+	}
+div#e16             { /* Crozes Javier °1967 */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 133.50pt;
+	width           : 135.75pt;
+	height          :  12.75pt;
+	}
+div#e15             { /* Crozes Marcel La Vigne */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 145.50pt;
+	width           : 155.25pt;
+	height          :  12.75pt;
+	}
+div#e14             { /* Crozes Monique °1947 */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 156.00pt;
+	width           : 135.75pt;
+	height          :  14.25pt;
+	}
+div#e13             { /* Bros Alberto °1960   */
+	position        : absolute;
+	left            : 286.50pt;
+	top             :  83.25pt;
+	width           : 135.75pt;
+	height          :  13.50pt;
+	}
+div#e12             { /* Crozes German °1983  */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 120.75pt;
+	width           : 135.75pt;
+	height          :  12.75pt;
+	}
+div#e11             { /* Descat Michel */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 180.00pt;
+	width           : 135.75pt;
+	height          :  12.75pt;
+	}
+div#e10             { /* Bros Coronel Yolanda °19... */
+	position        : absolute;
+	left            : 286.50pt;
+	top             :  96.00pt;
+	width           : 135.75pt;
+	height          :  12.75pt;
+	}
+div#e9              { /* Domé Nora Sandra */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 213.75pt;
+	width           : 135.75pt;
+	height          :  13.50pt;
+	}
+div#e8              { /* Luna Lodi Ramiro °2011  */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 225.75pt;
+	width           : 135.75pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* Devdariani Nicolas °2016... */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 191.25pt;
+	width           : 135.75pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* Crozes Silvia °1967   */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 168.00pt;
+	width           : 135.00pt;
+	height          :  14.25pt;
+	}
+div#e5              { /* Domé Bocha °1966  */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 203.25pt;
+	width           : 138.75pt;
+	height          :  14.25pt;
+	}
+div#e4              { /* Marezi Susana °1961  */
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 237.00pt;
+	width           : 135.75pt;
+	height          :  14.25pt;
+	}
+div#e3              { /* clic! */
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 132.00pt;
+	width           :  30.00pt;
+	height          :  14.25pt;
+	}
+img#e2              { /* genera010001.gif */
+	position        : absolute;
+	left            : 123.00pt;
+	top             : 119.25pt;
+	width           :  11.25pt;
+	height          :  10.50pt;
+	}
+span#e1             { /* plusmas.jpg */
+	background      : transparent url(plusmas.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 102.75pt;
+	width           :  50.25pt;
+	height          :  33.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

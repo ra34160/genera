@@ -1,0 +1,304 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc13               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc14               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #009900;
+	}
+.cc15               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #00cc00;
+	}
+.cc16               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc17               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0080ff;
+	}
+.cc18               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e37            { /* genera005007.gif */
+	border          :   0.00pt none #000000;
+	background      : transparent url(genera005007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 217.50pt;
+	top             :  52.50pt;
+	width           :   0.75pt;
+	height          : 315.75pt;
+	}
+div#e36             { /* Ascendances */
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  16.50pt;
+	top             :  38.25pt;
+	width           : 102.00pt;
+	height          :  15.00pt;
+	}
+span#e35            { /* genera005006.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,165.75pt,0.75pt,0.00pt);
+	background      : transparent url(genera005006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 315.00pt;
+	width           : 165.75pt;
+	height          :   0.75pt;
+	}
+h1#e34              { /* Famille ALBINET\ */
+	background      : transparent url(genera005005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.00pt;
+	top             :   6.00pt;
+	width           : 288.75pt;
+	height          :  33.00pt;
+	}
+img#e33             { /* genera005004.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 366.75pt;
+	top             : 337.50pt;
+	width           :  61.50pt;
+	height          :  21.00pt;
+	}
+span#e32            { /* an518.gif */
+	background      : transparent url(an518.gif) no-repeat top left;
+	position        : absolute;
+	left            : 361.50pt;
+	top             :  39.00pt;
+	width           :  73.50pt;
+	height          :  66.75pt;
+	}
+div#e31             { /* Fratries  */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 123.75pt;
+	width           : 105.75pt;
+	height          :  15.75pt;
+	}
+div#e30             { /* Descendances  */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 186.75pt;
+	width           : 100.50pt;
+	height          :  16.50pt;
+	}
+div#e29             { /* Chroniques familiales  */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 245.25pt;
+	width           : 141.00pt;
+	height          :  18.75pt;
+	}
+div#e28             { /* Livres illustrés  */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 310.50pt;
+	width           : 105.75pt;
+	height          :  18.00pt;
+	}
+div#e27             { /* Justin P J */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 202.50pt;
+	width           :  65.25pt;
+	height          :  14.25pt;
+	}
+div#e26             { /* Phil. °1861  */
+	position        : absolute;
+	left            :  84.00pt;
+	top             : 203.25pt;
+	width           :  62.25pt;
+	height          :  12.75pt;
+	}
+div#e25             { /* Frédéric Vidal  */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 139.50pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+div#e24             { /* Les premiers résultats */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 276.00pt;
+	width           : 156.75pt;
+	height          :  12.75pt;
+	}
+div#e23             { /* Albinet Léon */
+	position        : absolute;
+	left            : 147.00pt;
+	top             : 204.00pt;
+	width           :  71.25pt;
+	height          :  17.25pt;
+	}
+img#e22             { /* genera005003.jpg */
+	position        : absolute;
+	left            : 222.75pt;
+	top             : 210.00pt;
+	width           :  59.25pt;
+	height          :  42.75pt;
+	}
+img#e21             { /* genera005002.jpg */
+	position        : absolute;
+	left            : 287.25pt;
+	top             : 223.50pt;
+	width           :  18.75pt;
+	height          :  20.25pt;
+	}
+div#e20             { /* Documents terminés */
+	position        : absolute;
+	left            : 317.25pt;
+	top             : 219.75pt;
+	width           : 102.00pt;
+	height          :  11.25pt;
+	}
+div#e19             { /* Documentos finalizados */
+	position        : absolute;
+	left            : 316.50pt;
+	top             : 231.75pt;
+	width           : 114.75pt;
+	height          :  12.00pt;
+	}
+div#e18             { /* Frédéric Vidal */
+	position        : absolute;
+	left            :  23.25pt;
+	top             :  66.00pt;
+	width           : 102.75pt;
+	height          :  12.75pt;
+	}
+div#e17             { /* Frédéric Albinet   */
+	position        : absolute;
+	left            :  23.25pt;
+	top             :  51.75pt;
+	width           : 137.25pt;
+	height          :  15.00pt;
+	}
+img#e16             { /* genera005001.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 369.00pt;
+	top             : 353.25pt;
+	width           :  61.50pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* Descendance des Albinet  */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.75pt;
+	width           : 148.50pt;
+	height          :  14.25pt;
+	}
+div#e14             { /* Camille Theisen */
+	position        : absolute;
+	left            :  23.25pt;
+	top             :  78.00pt;
+	width           :  97.50pt;
+	height          :  14.25pt;
+	}
+div#e13             { /* Camille Theisen  */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 150.75pt;
+	width           : 102.00pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* Philippe °1891 */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 162.75pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* Bonnet Audrey  */
+	position        : absolute;
+	left            : 120.75pt;
+	top             : 140.25pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+div#e10             { /* Descendance des Pradines... */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 344.25pt;
+	width           : 183.75pt;
+	height          :  14.25pt;
+	}
+div#e9              { /* Claude */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 216.00pt;
+	width           :  65.25pt;
+	height          :  14.25pt;
+	}
+div#e8              { /* Liens familles Albinet e... */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 357.00pt;
+	width           : 172.50pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* Le tout début. */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 261.00pt;
+	width           : 156.75pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* Famille Albinet et l'Arg... */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 290.25pt;
+	width           : 156.75pt;
+	height          :  15.00pt;
+	}
+div#e5              { /* Famille XXL de Paul Albi... */
+	position        : absolute;
+	left            :  52.50pt;
+	top             : 401.25pt;
+	width           : 199.50pt;
+	height          :  14.25pt;
+	}
+div#e4              { /* clic! */
+	position        : absolute;
+	left            : 238.50pt;
+	top             : 193.50pt;
+	width           :  26.25pt;
+	height          :  12.00pt;
+	}
+div#e3              { /* Fiches individuelles  */
+	position        : absolute;
+	left            : 224.25pt;
+	top             :  38.25pt;
+	width           : 141.00pt;
+	height          :  16.50pt;
+	}
+div#e2              { /* Albinet Elie °1893  */
+	position        : absolute;
+	left            : 224.25pt;
+	top             :  57.75pt;
+	width           : 105.75pt;
+	height          :  14.25pt;
+	}
+div#e1              { /* Albinet  Robert °1945 */
+	position        : absolute;
+	left            : 225.00pt;
+	top             :  70.50pt;
+	width           : 120.00pt;
+	height          :  14.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

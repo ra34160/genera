@@ -1,0 +1,151 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc27               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc28               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #800000;
+	}
+.cc29               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #0080ff;
+	}
+.cc30               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #800000;
+	}
+span#e16            { /* genera008005.jpg */
+	background      : transparent url(genera008005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 458.25pt;
+	height          : 253.50pt;
+	}
+span#e15            { /* genera008004.gif */
+	border          :   0.00pt none #000000;
+	background      : transparent url(genera008004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 216.75pt;
+	top             : 268.50pt;
+	width           :   1.50pt;
+	height          :  99.75pt;
+	}
+div#e14             { /* courrier :\ \\ \Robert A... */
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 280.50pt;
+	width           : 163.50pt;
+	height          :  78.75pt;
+	}
+span#e13            { /* genera008003.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,206.25pt,0.75pt,0.00pt);
+	background      : transparent url(genera008003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 315.00pt;
+	width           : 206.25pt;
+	height          :   0.75pt;
+	}
+h1#e12              { /* Me contacter */
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   6.00pt;
+	width           : 209.25pt;
+	height          :  30.75pt;
+	}
+img#e11             { /* genera008002.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 362.25pt;
+	top             : 281.25pt;
+	width           :  65.25pt;
+	height          :  21.00pt;
+	}
+div#e10             { /* Tél fixe /\ \Mobile /  */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 264.75pt;
+	width           :  45.75pt;
+	height          :  30.75pt;
+	}
+div#e9              { /* Courrier électronique \ ... */
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 324.00pt;
+	width           : 117.00pt;
+	height          :  45.00pt;
+	}
+div#e8              { /* &nbsp;Version 19 07 2023... */
+	position        : absolute;
+	left            : 152.25pt;
+	top             : 409.50pt;
+	width           : 220.50pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* e-dirección */
+	position        : absolute;
+	left            : 134.25pt;
+	top             : 324.00pt;
+	width           :  83.25pt;
+	height          :  16.50pt;
+	}
+div#e6              { /* Correo :  */
+	position        : absolute;
+	left            : 276.00pt;
+	top             : 279.75pt;
+	width           :  62.25pt;
+	height          :  16.50pt;
+	}
+div#e5              { /* Casa :\ \Cell :  */
+	position        : absolute;
+	left            :  57.75pt;
+	top             : 265.50pt;
+	width           :  44.25pt;
+	height          :  30.75pt;
+	}
+div#e4              { /* 04 67 86 92 81\ \+33 6 0... */
+	position        : absolute;
+	left            :  96.00pt;
+	top             : 265.50pt;
+	width           : 113.25pt;
+	height          :  30.75pt;
+	}
+h1#e3               { /* Contactarme */
+	color           : #00ffff;
+	text-align      : left;
+	position        : absolute;
+	left            : 246.00pt;
+	top             :  22.50pt;
+	width           : 198.00pt;
+	height          :  30.00pt;
+	}
+img#e2              { /* genera008001.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 369.00pt;
+	top             : 304.50pt;
+	width           :  65.25pt;
+	height          :  24.75pt;
+	}
+div#e1              { /* Visites */
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 374.25pt;
+	width           :  46.50pt;
+	height          :  24.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

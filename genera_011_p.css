@@ -1,0 +1,238 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc52               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #990000;
+	text-align      : right;
+	}
+.cc53               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	text-align      : right;
+	}
+.cc54               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #993400;
+	}
+.cc55               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #3300ff;
+	}
+.cc56               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc57               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc58               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	text-align      : center;
+	}
+div#e28             { /* Ascendants              ... */
+	position        : absolute;
+	left            : 163.50pt;
+	top             :   9.00pt;
+	width           : 232.50pt;
+	height          :  71.25pt;
+	}
+div#e27             {
+	position        : absolute;
+	left            : 213.00pt;
+	top             :  39.75pt;
+	width           : 276.00pt;
+	height          :  27.75pt;
+	}
+img#e26             { /* genera010009.jpg */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  51.75pt;
+	width           : 116.25pt;
+	height          : 311.25pt;
+	}
+img#e25             { /* genera011004.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 213.75pt;
+	width           :  15.00pt;
+	height          :  15.00pt;
+	}
+img#e24             { /* genera011003.gif */
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 159.00pt;
+	width           :  15.00pt;
+	height          :  15.00pt;
+	}
+img#e23             { /* genera011002.gif */
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 261.75pt;
+	width           :  15.75pt;
+	height          :  15.75pt;
+	}
+img#e22             { /* genera010006.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 311.25pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+div#e21             { /* Fratries */
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 151.50pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e20             { /* Hermandades */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 168.00pt;
+	width           :  73.50pt;
+	height          :  15.00pt;
+	}
+img#e19             { /* genera010005.jpg */
+	position        : absolute;
+	left            :  66.00pt;
+	top             :  99.00pt;
+	width           :  32.25pt;
+	height          :  30.75pt;
+	}
+div#e18             { /* Ascendances */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 201.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e17             { /* Ascendencias */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 218.25pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e16             { /* Descendances */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 255.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e15             { /* Descendencias */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 270.75pt;
+	width           :  73.50pt;
+	height          :  26.25pt;
+	}
+div#e14             { /* Autres */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 302.25pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e13             { /* Otros */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 318.00pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e12             { /* clic! */
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 132.00pt;
+	width           :  30.00pt;
+	height          :  14.25pt;
+	}
+span#e11            { /* plusmas.jpg */
+	background      : transparent url(plusmas.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 102.75pt;
+	width           :  50.25pt;
+	height          :  33.00pt;
+	}
+div#e10             { /* Ascendientes  */
+	position        : absolute;
+	left            : 210.00pt;
+	top             :  45.00pt;
+	width           : 204.75pt;
+	height          :  36.75pt;
+	}
+div#e9              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 124.50pt;
+	width           : 374.25pt;
+	height          :  17.25pt;
+	}
+div#e8              { /* Albinet Fred &lt; Roger ... */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 149.25pt;
+	width           : 371.25pt;
+	height          :  17.25pt;
+	}
+div#e7              { /* Albinet Robert &lt; Gilb... */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 202.50pt;
+	width           : 337.50pt;
+	height          :  17.25pt;
+	}
+div#e6              { /* Albinet Jacques &lt; Lou... */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 178.50pt;
+	width           : 299.25pt;
+	height          :  17.25pt;
+	}
+div#e5              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            : 214.50pt;
+	top             : 227.25pt;
+	width           : 319.50pt;
+	height          :  17.25pt;
+	}
+div#e4              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 252.00pt;
+	width           : 387.00pt;
+	height          :  17.25pt;
+	}
+div#e3              { /* &nbsp;&nbsp;Devdariani N... */
+	position        : absolute;
+	left            : 201.00pt;
+	top             : 275.25pt;
+	width           : 387.00pt;
+	height          :  17.25pt;
+	}
+div#e2              { /* Luna Lodi Ramiro &lt; Do... */
+	position        : absolute;
+	left            : 206.25pt;
+	top             : 299.25pt;
+	width           : 435.75pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* Vidal Fred &lt; Cance MF... */
+	position        : absolute;
+	left            : 214.50pt;
+	top             : 321.00pt;
+	width           : 418.50pt;
+	height          :  17.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

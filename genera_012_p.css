@@ -1,0 +1,279 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc59               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #990000;
+	text-align      : right;
+	}
+.cc60               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	text-align      : right;
+	}
+.cc61               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #993400;
+	}
+.cc62               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #3300ff;
+	}
+.cc63               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc64               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc65               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #009900;
+	}
+.cc66               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc67               { /* Common */
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	color           : #993400;
+	text-align      : right;
+	}
+.cc68               { /* Common */
+	clip            : rect(0.00pt,10.50pt,9.75pt,0.00pt);
+	}
+div#e32             { /* Descendants             ... */
+	position        : absolute;
+	left            : 170.25pt;
+	top             :  15.00pt;
+	width           : 193.50pt;
+	height          :  30.00pt;
+	}
+div#e31             { /* Descendientes  */
+	position        : absolute;
+	left            : 210.00pt;
+	top             :  45.00pt;
+	width           : 204.75pt;
+	height          :  30.75pt;
+	}
+span#e30            { /* genera010009.jpg */
+	background      : transparent url(genera010009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  51.75pt;
+	width           : 116.25pt;
+	height          : 311.25pt;
+	}
+img#e29             { /* genera010006.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 213.00pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+img#e28             { /* genera010008.gif */
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 262.50pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+img#e27             { /* genera010007.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 159.00pt;
+	width           :  15.75pt;
+	height          :  16.50pt;
+	}
+img#e26             { /* genera010006.gif */
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 311.25pt;
+	width           :  15.00pt;
+	height          :  16.50pt;
+	}
+div#e25             { /* Fratries */
+	position        : absolute;
+	left            :  31.50pt;
+	top             : 151.50pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e24             { /* Hermandades */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 168.00pt;
+	width           :  73.50pt;
+	height          :  15.00pt;
+	}
+img#e23             { /* genera010005.jpg */
+	position        : absolute;
+	left            :  66.00pt;
+	top             :  99.00pt;
+	width           :  32.25pt;
+	height          :  30.75pt;
+	}
+div#e22             { /* Ascendances */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 201.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e21             { /* Ascendencias */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 218.25pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e20             { /* Descendances */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 255.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e19             { /* Descendencias */
+	position        : absolute;
+	left            :  29.25pt;
+	top             : 270.75pt;
+	width           :  73.50pt;
+	height          :  14.25pt;
+	}
+div#e18             { /* Autres */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 302.25pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e17             { /* Otros */
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 318.00pt;
+	width           :  73.50pt;
+	height          :  12.75pt;
+	}
+div#e16             { /* Famille Albinet - Schéma... */
+	position        : absolute;
+	left            : 129.75pt;
+	top             :  99.00pt;
+	width           : 308.25pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* Albinet Claude ° 1615  */
+	position        : absolute;
+	left            : 129.75pt;
+	top             : 127.50pt;
+	width           : 117.00pt;
+	height          :  16.50pt;
+	}
+div#e14             { /* Crozes Michel ° 1606 */
+	position        : absolute;
+	left            : 304.50pt;
+	top             : 127.50pt;
+	width           : 117.00pt;
+	height          :  14.25pt;
+	}
+div#e13             { /* Liens Familles Albinet /... */
+	position        : absolute;
+	left            : 118.50pt;
+	top             : 239.25pt;
+	width           : 334.50pt;
+	height          :  24.75pt;
+	}
+span#e12            { /* arw_rt.gif */
+	background      : transparent url(arw_rt.gif) no-repeat top left;
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 283.50pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e11             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 351.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e10             { /* arw_rt.gif */
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 333.75pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e9              { /* arw_rt.gif */
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 316.50pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+img#e8              { /* arw_rt.gif */
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 300.00pt;
+	width           :  10.50pt;
+	height          :   9.75pt;
+	}
+div#e7              { /* Les origines (à créer) */
+	position        : absolute;
+	left            : 186.75pt;
+	top             : 281.25pt;
+	width           : 166.50pt;
+	height          :  15.00pt;
+	}
+div#e6              { /* Ascendance Azam Elie   */
+	position        : absolute;
+	left            : 186.75pt;
+	top             : 300.00pt;
+	width           : 154.50pt;
+	height          :  13.50pt;
+	}
+div#e5              { /* Arbre de fratrie Azam El... */
+	position        : absolute;
+	left            : 186.75pt;
+	top             : 315.75pt;
+	width           : 167.25pt;
+	height          :  13.50pt;
+	}
+div#e4              { /* Descendance Azam  */
+	position        : absolute;
+	left            : 186.75pt;
+	top             : 333.75pt;
+	width           : 154.50pt;
+	height          :  13.50pt;
+	}
+div#e3              { /* Ascendance Clergue Miche... */
+	position        : absolute;
+	left            : 186.75pt;
+	top             : 351.00pt;
+	width           : 172.50pt;
+	height          :  13.50pt;
+	}
+div#e2              { /* clic! */
+	position        : absolute;
+	left            :  72.00pt;
+	top             : 130.50pt;
+	width           :  24.75pt;
+	height          :  14.25pt;
+	}
+span#e1             { /* plusmas.jpg */
+	background      : transparent url(plusmas.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  99.00pt;
+	width           :  50.25pt;
+	height          :  33.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

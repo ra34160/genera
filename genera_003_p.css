@@ -1,0 +1,236 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc08               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #808080;
+	}
+.cc09               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc10               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+span#e24            { /* genera001020.jpg */
+	clip            : rect(0.00pt,82.50pt,15.00pt,0.00pt);
+	background      : transparent url(genera001020.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 152.25pt;
+	width           :  82.50pt;
+	height          :  15.00pt;
+	}
+span#e23            { /* genera001013.jpg */
+	clip            : rect(0.00pt,82.50pt,15.00pt,0.00pt);
+	background      : transparent url(genera001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 107.25pt;
+	width           :  82.50pt;
+	height          :  15.00pt;
+	}
+span#e22            { /* genera001012.jpg */
+	clip            : rect(0.00pt,82.50pt,15.00pt,0.00pt);
+	background      : transparent url(genera001012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 129.75pt;
+	width           :  82.50pt;
+	height          :  15.00pt;
+	}
+span#e21            { /* recgray.jpg */
+	clip            : rect(0.00pt,82.50pt,15.00pt,0.00pt);
+	background      : transparent url(recgray.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 219.75pt;
+	width           :  82.50pt;
+	height          :  15.00pt;
+	}
+span#e20            { /* genera001011.jpg */
+	clip            : rect(0.00pt,82.50pt,15.00pt,0.00pt);
+	background      : transparent url(genera001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 197.25pt;
+	width           :  82.50pt;
+	height          :  15.00pt;
+	}
+span#e19            { /* genera001010.jpg */
+	clip            : rect(0.00pt,82.50pt,15.00pt,0.00pt);
+	background      : transparent url(genera001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 174.75pt;
+	width           :  82.50pt;
+	height          :  15.00pt;
+	}
+div#e18             { /* Accueil */
+	color           : #ffff00;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 107.25pt;
+	width           :  74.25pt;
+	height          :  17.25pt;
+	}
+a#a18               { /* Accueil */
+	color           : #ffff00;
+	}
+div#e17             {
+	color           : #ffff00;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 129.75pt;
+	width           :  78.75pt;
+	height          :  17.25pt;
+	}
+a#a17               {
+	color           : #ffff00;
+	}
+div#e16             { /* Me contacter */
+	color           : #ffff00;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 152.25pt;
+	width           :  75.75pt;
+	height          :  16.50pt;
+	}
+a#a16               { /* Me contacter */
+	color           : #ffff00;
+	}
+h1#e15              { /* Investigations en cours\ */
+	background      : transparent url(genera003007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  98.25pt;
+	top             :  24.75pt;
+	width           : 323.25pt;
+	height          :  33.75pt;
+	}
+div#e14             { /* branche déterminée ou bi... */
+	text-align      : left;
+	position        : absolute;
+	left            : 113.25pt;
+	top             : 108.00pt;
+	width           : 136.50pt;
+	height          : 105.75pt;
+	}
+span#e13            { /* genera003006.gif */
+	border          :   0.00pt none #004080;
+	background      : transparent url(genera003006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 260.25pt;
+	top             : 113.25pt;
+	width           :   0.75pt;
+	height          : 258.00pt;
+	}
+span#e12            { /* genera003005.jpg */
+	background      : transparent url(genera003005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 283.50pt;
+	top             : 207.75pt;
+	width           : 123.00pt;
+	height          : 110.25pt;
+	}
+div#e11             { /* <ul type="square"> \<li>... */
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 240.00pt;
+	width           : 183.00pt;
+	height          :  65.25pt;
+	}
+img#e10             { /* genera003004.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 296.25pt;
+	top             : 333.75pt;
+	width           :  69.75pt;
+	height          :  21.00pt;
+	}
+div#e9              { /* Photos à identifier */
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 312.75pt;
+	width           :  92.25pt;
+	height          :  12.75pt;
+	}
+h1#e8               { /* Investigaciones en proce... */
+	background      : transparent url(genera003003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 234.00pt;
+	top             :  75.00pt;
+	width           : 206.25pt;
+	height          :  17.25pt;
+	}
+img#e7              { /* genera003002.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 312.00pt;
+	top             : 353.25pt;
+	width           :  69.75pt;
+	height          :  17.25pt;
+	}
+div#e6              { /* Fotos que hay que identi... */
+	position        : absolute;
+	left            : 107.25pt;
+	top             : 326.25pt;
+	width           : 146.25pt;
+	height          :  42.00pt;
+	}
+div#e5              { /* Inicio */
+	color           : #00ffff;
+	position        : absolute;
+	left            :  24.75pt;
+	top             : 174.75pt;
+	width           :  74.25pt;
+	height          :  14.25pt;
+	}
+a#a5                { /* Inicio */
+	color           : #00ffff;
+	}
+div#e4              {
+	color           : #00ffff;
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 197.25pt;
+	width           :  78.75pt;
+	height          :  17.25pt;
+	}
+a#a4                {
+	color           : #00ffff;
+	}
+div#e3              { /* Contactarme */
+	color           : #00ffff;
+	position        : absolute;
+	left            :  21.75pt;
+	top             : 219.75pt;
+	width           :  75.75pt;
+	height          :  14.25pt;
+	}
+a#a3                { /* Contactarme */
+	color           : #00ffff;
+	}
+div#e2              { /* .    Aca, en la parte iz... */
+	color           : #0000ff;
+	text-align      : left;
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 111.00pt;
+	width           : 136.50pt;
+	height          :  82.50pt;
+	}
+img#e1              { /* genera003001.jpg */
+	position        : absolute;
+	left            :  50.25pt;
+	top             : 356.25pt;
+	width           :  29.25pt;
+	height          :  18.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/
