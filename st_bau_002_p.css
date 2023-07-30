@@ -1,0 +1,143 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc06               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc07               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	text-align      : center;
+	}
+.cc08               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc09               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc10               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+span#e16            { /* st_bau002001.gif */
+	background      : transparent url(st_bau002001.gif) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             :  63.00pt;
+	width           : 451.50pt;
+	height          : 103.50pt;
+	}
+div#e15             { /* <DIV>SAINT&nbsp; BAUZILL... */
+	position        : absolute;
+	left            :  48.75pt;
+	top             :  79.50pt;
+	width           : 438.75pt;
+	height          :  88.50pt;
+	}
+div#e14             { /* <DIV><FONT color="#40404... */
+	position        : absolute;
+	left            : 546.00pt;
+	top             :  52.50pt;
+	width           : 208.50pt;
+	height          :  45.75pt;
+	}
+div#e13             { /* Les loyers  */
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 194.25pt;
+	width           : 105.75pt;
+	height          :  28.50pt;
+	}
+div#e12             { /* Agen, les loyers de la S... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 230.25pt;
+	width           : 249.75pt;
+	height          :  28.50pt;
+	}
+div#e11             { /* <DIV>Agen, les loyer de ... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 256.50pt;
+	width           : 260.25pt;
+	height          :  28.50pt;
+	}
+div#e10             { /* <DIV>Montpellier, les lo... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 284.25pt;
+	width           : 315.00pt;
+	height          :  28.50pt;
+	}
+div#e9              { /* Comptabilité&nbsp; */
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 351.75pt;
+	width           : 105.75pt;
+	height          :  45.75pt;
+	}
+div#e8              { /* Pour les loyers Agen&nbs... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 401.25pt;
+	width           : 190.50pt;
+	height          :  24.75pt;
+	}
+div#e7              { /* Pour les loyers des stud... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 428.25pt;
+	width           : 250.50pt;
+	height          :  24.75pt;
+	}
+div#e6              { /* Les impôts&nbsp; */
+	position        : absolute;
+	left            : 444.00pt;
+	top             : 195.75pt;
+	width           : 105.75pt;
+	height          :  27.00pt;
+	}
+div#e5              { /* <DIV>TVA</DIV> */
+	position        : absolute;
+	left            : 460.50pt;
+	top             : 229.50pt;
+	width           : 105.75pt;
+	height          :  29.25pt;
+	}
+div#e4              { /* Impôt sur le revenu&nbsp... */
+	position        : absolute;
+	left            : 462.00pt;
+	top             : 254.25pt;
+	width           : 189.00pt;
+	height          :  27.75pt;
+	}
+div#e3              { /* Taxe foncières  */
+	position        : absolute;
+	left            : 461.25pt;
+	top             : 280.50pt;
+	width           : 165.75pt;
+	height          :  25.50pt;
+	}
+div#e2              { /* Abonnements&nbsp; */
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 351.75pt;
+	width           : 133.50pt;
+	height          :  21.00pt;
+	}
+div#e1              { /* Accueil&nbsp; */
+	position        : absolute;
+	left            : 447.75pt;
+	top             : 498.00pt;
+	width           :  74.25pt;
+	height          :  27.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #ffffff;
+	}
+
+
+
+/*--- EndOfFile ---*/
