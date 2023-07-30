@@ -1,33 +1,33 @@
 /*--- Avanquest WebEasy Page Style ---*/
 
 
-.cc45               { /* Common */
+.cc44               { /* Common */
 	font            : 24pt 'Arial', Helvetica, sans-serif;
 	color           : #990000;
 	text-align      : right;
 	}
-.cc46               { /* Common */
+.cc45               { /* Common */
 	font            : 24pt 'Arial', Helvetica, sans-serif;
 	color           : #3300ff;
 	text-align      : right;
 	}
-.cc47               { /* Common */
+.cc46               { /* Common */
 	font            : 10pt 'Times New Roman', Book, Georgia, serif;
 	color           : #993400;
 	}
-.cc48               { /* Common */
+.cc47               { /* Common */
 	font            : 10pt 'Times New Roman', Book, Georgia, serif;
 	color           : #3300ff;
 	}
-.cc49               { /* Common */
+.cc48               { /* Common */
 	font            : 10pt 'Times New Roman', Book, Georgia, serif;
 	color           : #000000;
 	}
-.cc50               { /* Common */
+.cc49               { /* Common */
 	font            : bold 10pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	}
-.cc51               { /* Common */
+.cc50               { /* Common */
 	font            : bold 10pt 'Arial', Helvetica, sans-serif;
 	color           : #0000ff;
 	}
@@ -427,7 +427,7 @@ span#e1             { /* plusmas.jpg */
 	background      : transparent url(plusmas.jpg) no-repeat top left;
 	position        : absolute;
 	left            :   6.75pt;
-	top             : 102.75pt;
+	top             : 100.50pt;
 	width           :  50.25pt;
 	height          :  33.00pt;
 	}
