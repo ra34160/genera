@@ -1,0 +1,163 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc19               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc20               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0080ff;
+	}
+.cc21               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc22               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #009900;
+	}
+.cc23               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e18            { /* clanra006006.gif */
+	border          :   0.00pt none #000000;
+	background      : transparent url(clanra006006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 249.00pt;
+	top             :  55.50pt;
+	width           :   0.75pt;
+	height          : 315.75pt;
+	}
+span#e17            { /* clanra006005.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,165.75pt,0.75pt,0.00pt);
+	background      : transparent url(clanra006005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 315.00pt;
+	width           : 165.75pt;
+	height          :   0.75pt;
+	}
+h1#e16              { /* Flia  CROZES\ */
+	background      : transparent url(clanra006004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.00pt;
+	top             :   5.25pt;
+	width           : 288.75pt;
+	height          :  30.75pt;
+	}
+img#e15             { /* clanra006003.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 369.00pt;
+	top             : 339.75pt;
+	width           :  62.25pt;
+	height          :  17.25pt;
+	}
+img#e14             { /* an167.gif */
+	position        : absolute;
+	left            : 434.25pt;
+	top             :  78.75pt;
+	width           :  91.50pt;
+	height          :  99.00pt;
+	}
+img#e13             { /* clanra006002.jpg */
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 219.00pt;
+	width           :  63.00pt;
+	height          :  45.00pt;
+	}
+img#e12             { /* clanra006001.jpg */
+	position        : absolute;
+	left            : 351.00pt;
+	top             : 225.75pt;
+	width           :  22.50pt;
+	height          :  22.50pt;
+	}
+div#e11             { /* Documents terminés */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 219.75pt;
+	width           : 105.75pt;
+	height          :  13.50pt;
+	}
+div#e10             { /* Documentos finalizados */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 241.50pt;
+	width           : 118.50pt;
+	height          :  17.25pt;
+	}
+div#e9              { /* Crónicas familiares  */
+	position        : absolute;
+	left            :  22.50pt;
+	top             :  61.50pt;
+	width           : 141.00pt;
+	height          :  16.50pt;
+	}
+div#e8              { /* Libros ilustrados  */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 203.25pt;
+	width           : 105.75pt;
+	height          :  16.50pt;
+	}
+div#e7              { /* Descendientes CROZES  */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 237.00pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e6              { /* Les Crozes après  1820 (... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             :  84.75pt;
+	width           : 227.25pt;
+	height          :  16.50pt;
+	}
+div#e5              { /* Enlaces ambas flias Croz... */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 261.75pt;
+	width           : 191.25pt;
+	height          :  38.25pt;
+	}
+div#e4              { /* clic! */
+	position        : absolute;
+	left            : 295.50pt;
+	top             : 190.50pt;
+	width           :  30.00pt;
+	height          :  15.00pt;
+	}
+div#e3              { /* Parentesco Albinet/ Arbe... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 104.25pt;
+	width           : 225.00pt;
+	height          :  16.50pt;
+	}
+div#e2              { /* Ascendencia Arbe Marina */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 120.00pt;
+	width           : 219.00pt;
+	height          :  16.50pt;
+	}
+div#e1              { /* Arbe Marina y su familia... */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 136.50pt;
+	width           : 246.00pt;
+	height          :  16.50pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

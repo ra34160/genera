@@ -1,0 +1,309 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc31               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #660000;
+	}
+.cc32               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	}
+.cc33               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc34               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc35               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	}
+.cc36               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #3300ff;
+	}
+.cc37               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #660000;
+	}
+.cc38               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #3300ff;
+	}
+.cc39               { /* Common */
+	font            : bold 24pt 'Arial', Helvetica, sans-serif;
+	color           : #993400;
+	}
+.cc40               { /* Common */
+	font            : bold 24pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc41               { /* Common */
+	border          :   0.00pt none #800000;
+	}
+.cc42               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #660000;
+	}
+.cc43               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc44               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+div#e34             { /* Ascendances  */
+	position        : absolute;
+	left            :  47.25pt;
+	top             : 358.50pt;
+	width           :  97.50pt;
+	height          :  15.75pt;
+	}
+div#e33             { /* \ \généalogie    Genealo... */
+	position        : absolute;
+	left            :  32.25pt;
+	top             : 144.75pt;
+	width           : 117.00pt;
+	height          :  47.25pt;
+	}
+div#e32             { /* &nbsp;Albinet / Crozes */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 197.25pt;
+	width           : 130.50pt;
+	height          :  19.50pt;
+	}
+div#e31             { /* Ascendencias */
+	position        : absolute;
+	left            :  49.50pt;
+	top             : 370.50pt;
+	width           :  97.50pt;
+	height          :  30.75pt;
+	}
+div#e30             { /* Descendencias  */
+	position        : absolute;
+	left            : 412.50pt;
+	top             : 162.75pt;
+	width           : 108.00pt;
+	height          :  30.75pt;
+	}
+div#e29             { /* Otros  */
+	position        : absolute;
+	left            : 437.25pt;
+	top             : 290.25pt;
+	width           :  54.00pt;
+	height          :  16.50pt;
+	}
+div#e28             { /* Fratries  */
+	position        : absolute;
+	left            :  13.50pt;
+	top             :   6.00pt;
+	width           :  71.25pt;
+	height          :  24.00pt;
+	}
+div#e27             { /* Descendances\ \\ */
+	position        : absolute;
+	left            : 410.25pt;
+	top             : 136.50pt;
+	width           : 109.50pt;
+	height          :  17.25pt;
+	}
+div#e26             { /* Hermandades  */
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  32.25pt;
+	width           :  98.25pt;
+	height          :  18.00pt;
+	}
+div#e25             { /* &nbsp;&nbsp;&nbsp;Alguno... */
+	position        : absolute;
+	left            : 224.25pt;
+	top             : 365.25pt;
+	width           : 210.75pt;
+	height          :  69.75pt;
+	}
+div#e24             { /* Autres  */
+	position        : absolute;
+	left            : 420.75pt;
+	top             : 268.50pt;
+	width           :  47.25pt;
+	height          :  18.00pt;
+	}
+img#e23             { /* clanra009009.gif */
+	position        : absolute;
+	left            : 100.50pt;
+	top             : 427.50pt;
+	width           :  49.50pt;
+	height          :  33.00pt;
+	}
+div#e22             { /* Retour Accueil */
+	position        : absolute;
+	left            :  33.75pt;
+	top             : 435.75pt;
+	width           :  66.75pt;
+	height          :  12.00pt;
+	}
+div#e21             { /* Volver a inicio */
+	position        : absolute;
+	left            : 151.50pt;
+	top             : 437.25pt;
+	width           : 183.75pt;
+	height          :  15.00pt;
+	}
+img#e20             { /* an120.gif */
+	position        : absolute;
+	left            : 392.25pt;
+	top             : 225.00pt;
+	width           :  45.75pt;
+	height          :  42.75pt;
+	}
+div#e19             { /* Plus.... */
+	position        : absolute;
+	left            : 311.25pt;
+	top             :  35.25pt;
+	width           :  87.00pt;
+	height          :  33.75pt;
+	}
+div#e18             { /* Más....  */
+	position        : absolute;
+	left            : 336.75pt;
+	top             :  67.50pt;
+	width           :  78.00pt;
+	height          :  30.75pt;
+	}
+span#e17            { /* clanra009008.gif */
+	background      : transparent url(clanra009008.gif) no-repeat top left;
+	position        : absolute;
+	left            : 181.50pt;
+	top             : 116.25pt;
+	width           :  84.75pt;
+	height          :  58.50pt;
+	}
+div#e16             {
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 302.25pt;
+	width           : 210.75pt;
+	height          :  48.00pt;
+	}
+div#e15             { /* &nbsp;&nbsp;&nbsp;Quelqu... */
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 304.50pt;
+	width           : 210.75pt;
+	height          :  63.75pt;
+	}
+span#e14            { /* clanra009007.gif */
+	background      : transparent url(clanra009007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 200.25pt;
+	top             : 208.50pt;
+	width           : 123.00pt;
+	height          :  81.00pt;
+	}
+span#e13            { /* clanra009006.gif */
+	background      : transparent url(clanra009006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 356.25pt;
+	top             : 210.00pt;
+	width           :  35.25pt;
+	height          :  35.25pt;
+	}
+img#e12             { /* clanra009005.gif */
+	position        : absolute;
+	left            :  36.75pt;
+	top             :  54.00pt;
+	width           :  22.50pt;
+	height          :  25.50pt;
+	}
+img#e11             { /* clanra009005.gif */
+	position        : absolute;
+	left            : 464.25pt;
+	top             : 180.75pt;
+	width           :  22.50pt;
+	height          :  25.50pt;
+	}
+img#e10             { /* clanra009005.gif */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 360.00pt;
+	width           :  22.50pt;
+	height          :  25.50pt;
+	}
+img#e9              { /* clanra009005.gif */
+	position        : absolute;
+	left            : 447.00pt;
+	top             : 308.25pt;
+	width           :  22.50pt;
+	height          :  25.50pt;
+	}
+div#e8              { /* clic! */
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  81.00pt;
+	width           :  30.00pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* clic! */
+	position        : absolute;
+	left            : 463.50pt;
+	top             : 211.50pt;
+	width           :  30.00pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* clic! */
+	position        : absolute;
+	left            : 451.50pt;
+	top             : 343.50pt;
+	width           :  30.00pt;
+	height          :  15.75pt;
+	}
+div#e5              { /* clic! */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 383.25pt;
+	width           :  30.00pt;
+	height          :  14.25pt;
+	}
+span#e4             { /* clanra009004.jpg */
+	background      : transparent url(clanra009004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 123.00pt;
+	top             :  20.25pt;
+	width           : 168.00pt;
+	height          :  91.50pt;
+	}
+span#e3             { /* clanra009003.jpg */
+	background      : transparent url(clanra009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 241.50pt;
+	width           : 168.00pt;
+	height          : 102.75pt;
+	}
+span#e2             { /* clanra009002.jpg */
+	background      : transparent url(clanra009002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 124.50pt;
+	width           : 129.00pt;
+	height          :  88.50pt;
+	}
+span#e1             { /* clanra009001.jpg */
+	background      : transparent url(clanra009001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 273.00pt;
+	top             : 125.25pt;
+	width           : 129.00pt;
+	height          :  92.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/

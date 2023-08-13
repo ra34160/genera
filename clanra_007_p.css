@@ -1,0 +1,152 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc24               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #009900;
+	}
+.cc25               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0080ff;
+	}
+.cc26               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e17            { /* clanra007007.gif */
+	border          :   0.00pt none #000000;
+	background      : transparent url(clanra007007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 217.50pt;
+	top             :  52.50pt;
+	width           :   0.75pt;
+	height          : 315.75pt;
+	}
+div#e16             { /* Documents divers */
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  60.00pt;
+	width           : 195.75pt;
+	height          :  21.00pt;
+	}
+span#e15            { /* clanra007006.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,165.75pt,0.75pt,0.00pt);
+	background      : transparent url(clanra007006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 315.00pt;
+	width           : 165.75pt;
+	height          :   0.75pt;
+	}
+h1#e14              { /* Aide / Ayuda\ */
+	background      : transparent url(clanra007005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   6.00pt;
+	top             :   6.00pt;
+	width           : 288.75pt;
+	height          :  30.75pt;
+	}
+img#e13             { /* clanra007004.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 333.00pt;
+	top             : 322.50pt;
+	width           :  54.00pt;
+	height          :  39.75pt;
+	}
+img#e12             { /* clanra007003.jpg */
+	position        : absolute;
+	left            :  10.50pt;
+	top             :  87.00pt;
+	width           :  29.25pt;
+	height          :  24.00pt;
+	}
+div#e11             { /* Aide Hérédis online */
+	position        : absolute;
+	left            :  49.50pt;
+	top             :  87.75pt;
+	width           :  90.75pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* clanra007002.jpg */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 114.00pt;
+	width           :  29.25pt;
+	height          :  20.25pt;
+	}
+div#e9              { /* Modèle de fiche familial... */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 115.50pt;
+	width           : 149.25pt;
+	height          :  18.75pt;
+	}
+div#e8              { /* Page Perso - Aide   */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 141.00pt;
+	width           : 149.25pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* Página Propia - Ayuda */
+	position        : absolute;
+	left            :  48.75pt;
+	top             : 165.00pt;
+	width           : 149.25pt;
+	height          :  14.25pt;
+	}
+img#e6              { /* clanra007002.jpg */
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 162.75pt;
+	width           :  29.25pt;
+	height          :  20.25pt;
+	}
+img#e5              { /* clanra007002.jpg */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 138.00pt;
+	width           :  29.25pt;
+	height          :  20.25pt;
+	}
+div#e4              { /* / Ayuda Hérédis */
+	position        : absolute;
+	left            : 137.25pt;
+	top             :  87.75pt;
+	width           :  75.75pt;
+	height          :  14.25pt;
+	}
+img#e3              { /* clanra007001.jpg */
+	background-color: transparent;
+	position        : absolute;
+	left            : 334.50pt;
+	top             : 335.25pt;
+	width           :  45.00pt;
+	height          :  19.50pt;
+	}
+div#e2              { /* clic! */
+	position        : absolute;
+	left            :  21.75pt;
+	top             : 231.00pt;
+	width           :  30.00pt;
+	height          :  14.25pt;
+	}
+span#e1             { /* peak_up1.png */
+	background      : transparent url(peak_up1.png) no-repeat top left;
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 196.50pt;
+	width           :   8.25pt;
+	height          :  27.75pt;
+	}
+body#page           { /* Page Body */
+	background-color: #c0c0c0;
+	}
+
+
+
+/*--- EndOfFile ---*/
